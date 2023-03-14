@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+h1 {
+  font-family: "Freestyle Script", monospace;
+  font-size: 5rem;
+  
+  text-transform: capitalize;
+  color: rebeccapurple;
+}
+p{
+  font-family: cursive;
+}
+li { background-color: lightgray;}
+body {
+  background-color: #AED581;
+}
+a{
+  font-family: 'Times New Roman', Times, serif;
+}
+table{
+  border-color: blueviolet;
+  border-style: double;
+  border-width: 5px;
+}
+label{
+  font-size: 15px;
+}
